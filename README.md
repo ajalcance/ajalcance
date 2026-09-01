@@ -1,10 +1,8 @@
-## Hi there 👋
-
 # Albert A.
 
-I build AI-native systems and platforms across authentication, cloud infrastructure, autonomous agents, and human–AI workflows.
+I build AI-native systems and platforms across authentication, autonomous agents, cloud infrastructure, and human–AI workflows.
 
-My current work is focused on building production-oriented platforms that make intelligent systems more secure, usable, and operationally reliable.
+My current work focuses on production-oriented platforms designed to make intelligent systems more secure, usable, and operationally reliable.
 
 ## Current Work
 
@@ -18,7 +16,9 @@ An authentication platform designed for humans and AI, focused on secure identit
 
 An AI-native platform currently under development, focused on building and operating intelligent systems at platform level.
 
-Coming out soon to this web address [zymcos.com](https://zymcos.com)
+Currently in development.
+
+[zymcos.com](https://zymcos.com)
 
 ### GlassBox AI Quant
 
@@ -30,7 +30,7 @@ The model estimates. The architecture controls risk.
 
 ### LexGrit / LexPar AI
 
-Applied AI systems for legal preparation and professional workflows.
+Applied AI systems for legal reasoning, hearing preparation, and professional workflows.
 
 ## How I Build
 
